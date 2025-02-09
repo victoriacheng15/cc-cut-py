@@ -35,7 +35,6 @@ def test_parse_fields():
         parse_fields("1,abc")
 
 
-
 def test_cut(capsys):
     """
     Test the cut function.
